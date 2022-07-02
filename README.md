@@ -1,3 +1,5 @@
+<img src="cover_trading.jpg" width="900" height="500">
+
 # Project background
 
 The compound of technologies we use to call 'AI' promises to revolutionize many sectors. However, there is a substantial gap between what firms say they do with AI and what they actually do with it. Several factors could account for such a gap: 

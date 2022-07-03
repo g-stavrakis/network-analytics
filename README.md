@@ -13,8 +13,9 @@ In the context of knowledge intensive industries, there is yet another obstacle 
 # Dataset
 
 In order to get a better understanding of traders' attitudes toward AI, we have circulated a survey in a large trading floor. The resulting dataset [trading_floor.xml]( https://github.com/simoneSantoni/net-analysis-smm638/blob/9114bedfde4195f2e5ed4fa5c868e3d41b26f939/finalCourseProject/trading_floor.xml) contains 192 responses regarding:
-•	the undirected network of knowledge exchange between traders (traders A and B are connected when A says he/she shares technical and industry knowledge with B and vice versa)
-•	a trader's opinion about the contribution of AI to his/her productivity and effectiveness in evaluating securities (1 = not at all; 10 = to a great extent). In the datasets, this variable is reported as the node attribute ai.
+- the undirected network of knowledge exchange between traders (traders A and B are connected when A says he/she shares technical and industry knowledge with B and vice versa)
+- a trader's opinion about the contribution of AI to his/her productivity and effectiveness in evaluating securities (1 = not at all; 10 = to a great extent). In the datasets, this variable is reported as the node attribute ai.
+
 Regarding the traders' location in the floor. 
 There are six zones, each of which hosts 32 individuals (16 individuals on each side of the zone). In the dataset, the location of traders is reported as two node attributes, that is, x-pos and y-pos.
 
